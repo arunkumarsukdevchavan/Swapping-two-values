@@ -29,7 +29,7 @@ b=temp
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![OUTPUT](/Screenshot from 2022-12-23 14-48-08.png)
+![OUTPUT](/swap.png)
 
 
 ## RESULT:
